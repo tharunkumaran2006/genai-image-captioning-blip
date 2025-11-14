@@ -85,7 +85,7 @@ demo = gr.Interface(fn=captioner,
 
 demo.launch(share=True, server_port=int(os.environ['PORT1']))
 ```
-
+### OUTPUT:
 <img width="915" height="732" alt="Screenshot 2025-11-14 112648" src="https://github.com/user-attachments/assets/55590646-4ac0-4ccd-8bb5-7fac35454482" />
 
 
